@@ -36,32 +36,6 @@ A modern, full-stack task management application built with Next.js and Express.
 - **bcryptjs** - Password hashing
 - **CORS** - Cross-origin resource sharing
 
-## 📁 Project Structure
-
-```
-task-manager/
-├── client/                 # Frontend Next.js application
-│   ├── app/               # App router pages
-│   │   ├── login/         # Login page
-│   │   ├── register/      # Registration page
-│   │   └── task/[id]/     # Individual task view
-│   ├── components/        # React components
-│   │   ├── ui/           # Reusable UI components
-│   │   ├── Dashboard.tsx  # Main dashboard
-│   │   ├── Kanban.tsx    # Kanban board view
-│   │   ├── Tasklist.tsx  # List view
-│   │   └── ...
-│   ├── store/            # Zustand state management
-│   ├── types/            # TypeScript type definitions
-│   └── lib/              # Utility functions
-└── server/               # Backend Express.js application
-    └── src/
-        ├── controller/   # Route controllers
-        ├── middleware/   # Express middleware
-        ├── model/        # Database models
-        └── routes/       # API routes
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -75,8 +49,8 @@ task-manager/
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
-   cd task-manager
+   git clone https://github.com/NIORSAYSON/task-manager-app.git
+   cd task-manager-app
    ```
 
 2. **Set up the backend**
