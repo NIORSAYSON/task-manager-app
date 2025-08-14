@@ -234,8 +234,8 @@ This is a personal project, but if you have suggestions or find bugs, feel free 
 
 **Nestor B. Sayson Jr.**
 
-- Email: [nessayson@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/nestor-sayson-b8671b292]
-- GitHub: [https://github.com/NIORSAYSON]
+- Email: nessayson@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nestor-sayson-b8671b292
+- GitHub: https://github.com/NIORSAYSON
 
 ---
